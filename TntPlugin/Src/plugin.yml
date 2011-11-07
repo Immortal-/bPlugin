@@ -1,0 +1,7 @@
+name: TntNotifier
+version: 1.4
+main: net.minecraft.TntNotifier
+commands:
+    Tn:
+        description: Credits.
+        usage: /tn
